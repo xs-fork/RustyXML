@@ -2,7 +2,7 @@
 name = "xml-rsl"
 version = "0.1.0"
 authors = ["XS <tonycody@qq.com>"]
-license = "MIT/Apache-2.0"
+license = "Apache-2.0"
 homepage = "https://github.com/xs-fork/RustyXML"
 repository = "https://github.com/xs-fork/RustyXML"
 documentation = "https://docs.rs/xml-rsl"
